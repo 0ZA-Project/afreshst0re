@@ -1,5 +1,16 @@
 [
   {
+    "name": "PlayMusic 4",
+    "developer": "NepTune Team et CalibriTeams",
+    "version": "v1.2.1 extraWindows",
+    "date_added": "08/05/2024",
+    "date_created": "28/09/2023",
+    "short_description": "PlayMusic 4 est un lecteur de musique puissant et loyal.",
+    "reviews": "★★★☆☆ (46 avis sur le aFreshSt0re))",
+    "status": "Stable",
+    "download_url": "https://657f6d3ba10da.site123.me/versions/2/wizard/modules/fileManager/downloadDigitalFile.php?url=https%3A%2F%2Fstatic.s123-cdn-static-c.com%2Fuploads%2F8784643%2Fsecure%2Fnormal_66369e6e44bd2.zip"
+  },
+  {
     "name": "7-Zip",
     "developer": "Igor Pavlov",
     "version": "v24.09",
@@ -8,6 +19,6 @@
     "short_description": "7-Zip est un logiciel de compression de données et d'archivage de fichiers libre.",
     "reviews": "★★★★☆ (1 avis sur aFreshSt0re)",
     "status": "Actif",
-    "download_url": "https://example.com/7zip/download"
+    "download_url": "https://mega.nz/folder/ZKEklICJ#m7g8eIoRPMSt01NZ6DIFtA"
   }
 ]
