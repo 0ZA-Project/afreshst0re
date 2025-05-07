@@ -2,6 +2,7 @@
   {
     "name": "App 1",
     "description": "Une super app.",
+    "version": "v0.0.0"
     "download_url": "https://monserveur.com/apps/app1.exe"
   },
   {
