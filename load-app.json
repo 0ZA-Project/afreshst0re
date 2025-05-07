@@ -1,13 +1,13 @@
 [
   {
-    "name": "App 1",
-    "description": "Une super app.",
-    "version": "v0.0.0"
-    "download_url": "https://monserveur.com/apps/app1.exe"
-  },
-  {
-    "name": "App 2",
-    "description": "Encore une app cool.",
-    "download_url": "https://monserveur.com/apps/app2.exe"
+    "name": "7-Zip",
+    "developer": "Igor Pavlov",
+    "version": "v24.09",
+    "date_added": "09/10/2024",
+    "date_created": "18/07/1999",
+    "short_description": "7-Zip est un logiciel de compression de données et d'archivage de fichiers libre.",
+    "reviews": "★★★★☆ (1 avis sur aFreshSt0re)",
+    "status": "Actif",
+    "download_url": "https://example.com/7zip/download"
   }
 ]
