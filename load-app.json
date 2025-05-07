@@ -6,7 +6,7 @@
     "date_added": "08/05/2024",
     "date_created": "28/09/2023",
     "short_description": "PlayMusic 4 est un lecteur de musique puissant et loyal.",
-    "reviews": "★★★☆☆ (46 avis sur le aFreshSt0re))",
+    "reviews": "★★★☆☆ (46 avis sur le aFreshSt0re)",
     "status": "Stable",
     "download_url": "https://657f6d3ba10da.site123.me/versions/2/wizard/modules/fileManager/downloadDigitalFile.php?url=https%3A%2F%2Fstatic.s123-cdn-static-c.com%2Fuploads%2F8784643%2Fsecure%2Fnormal_66369e6e44bd2.zip"
   },
@@ -20,5 +20,16 @@
     "reviews": "★★★★☆ (1 avis sur aFreshSt0re)",
     "status": "Actif",
     "download_url": "https://mega.nz/folder/ZKEklICJ#m7g8eIoRPMSt01NZ6DIFtA"
+  },
+  {
+    "name": "7-Zip",
+    "developer": "The Chromium Authors",
+    "version": "v136.0.7054.0",
+    "date_added": "09/10/2024",
+    "date_created": "02/09/2008",
+    "short_description": "Chromium est un navigateur web libre développé par l’organisation Chromium Project créée par Google en 2008.",
+    "reviews": "N/A (0 avis sur aFreshSt0re)",
+    "status": "Actif",
+    "download_url": "https://mega.nz/folder/ZXUUEIyB#8Vb-mWDBvg9ijBK0Mdh95w"
   }
 ]
