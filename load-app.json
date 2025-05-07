@@ -1,0 +1,12 @@
+[
+  {
+    "name": "App 1",
+    "description": "Une super app.",
+    "download_url": "https://monserveur.com/apps/app1.exe"
+  },
+  {
+    "name": "App 2",
+    "description": "Encore une app cool.",
+    "download_url": "https://monserveur.com/apps/app2.exe"
+  }
+]
